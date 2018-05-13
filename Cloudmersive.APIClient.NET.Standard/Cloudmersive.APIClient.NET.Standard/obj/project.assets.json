@@ -248,7 +248,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.3.1",
     "restore": {
       "projectUniqueName": "C:\\Users\\Andrew\\Dropbox\\Rel\\docs\\Cloudmersive.APIClient.NET.Standard\\Cloudmersive.APIClient.NET.Standard\\Cloudmersive.APIClient.NET.Standard\\Cloudmersive.APIClient.NET.Standard.csproj",
       "projectName": "Cloudmersive.APIClient.NET.Standard",

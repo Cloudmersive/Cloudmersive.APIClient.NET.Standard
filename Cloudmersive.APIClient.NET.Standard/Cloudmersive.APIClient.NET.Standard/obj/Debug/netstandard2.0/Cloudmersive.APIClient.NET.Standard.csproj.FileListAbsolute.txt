@@ -1,4 +1,3 @@
-C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Standard\Cloudmersive.APIClient.NET.Standard\Cloudmersive.APIClient.NET.Standard\obj\Debug\netstandard2.0\Cloudmersive.APIClient.NET.Standard.csprojAssemblyReference.cache
 C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Standard\Cloudmersive.APIClient.NET.Standard\Cloudmersive.APIClient.NET.Standard\obj\Debug\netstandard2.0\Cloudmersive.APIClient.NET.Standard.csproj.CoreCompileInputs.cache
 C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Standard\Cloudmersive.APIClient.NET.Standard\Cloudmersive.APIClient.NET.Standard\obj\Debug\netstandard2.0\Cloudmersive.APIClient.NET.Standard.AssemblyInfoInputs.cache
 C:\Users\Andrew\Dropbox\Rel\docs\Cloudmersive.APIClient.NET.Standard\Cloudmersive.APIClient.NET.Standard\Cloudmersive.APIClient.NET.Standard\obj\Debug\netstandard2.0\Cloudmersive.APIClient.NET.Standard.AssemblyInfo.cs
